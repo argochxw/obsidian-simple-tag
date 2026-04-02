@@ -32,4 +32,5 @@ FROM [标签名...]：可以多个，空格连接
 空查询搜索所有标签
 
 # 4 截图
-![Obsidian简标签插件截图](截图.png)
+
+![Obsidian简标签插件截图](https://github.com/argochxw/obsidian-simple-tag/blob/main/截图.png?raw=true "插件效果展示")
