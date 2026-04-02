@@ -4,7 +4,7 @@ obsidian 的 tag 其实非常重量级，是针对整个文档的。而简标签
 
 # 2 特性
 1. 语法简单：`%+标签+空格+内容+中文句号`
-2. 支持筛选：类似 tasks、dataview
+2. 支持筛选：类似 tasks、dataview，语法类似（高仿）
 3. 支持高亮：类似 aDHL
 
 # 3 例子
@@ -20,3 +20,13 @@ list
 from 名言
 '''
 ```
+## 3.3 查询语法
+
+```
+[展示格式]：list、table、bullet
+FROM [标签名...]：可以多个，空格连接
+[WHERE 条件]
+[SORT BY 字段 [ASC|DESC]]
+[LIMIT 数量]
+```
+空查询搜索所有标签
