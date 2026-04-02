@@ -33,4 +33,5 @@ FROM [标签名...]：可以多个，空格连接
 
 # 4 截图
 
-![Obsidian简标签插件截图](https://github.com/argochxw/obsidian-simple-tag/blob/main/截图.png?raw=true "插件效果展示")
+![obsidian简标签截图](1.png "简标签")
+
